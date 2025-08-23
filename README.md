@@ -91,7 +91,7 @@ Both charts include titles, axis labels, legends, and grid lines for clarity.
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/stock-market-analysis.git
+   git clone https://github.com/YuliaAsIs/Stock-Market-Data_Analysis.git
    cd stock-market-analysis
    ```
 2. Install dependencies:
